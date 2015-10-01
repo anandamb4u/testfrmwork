@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="googleFlightsPage">//*[@id="root"]/div[3]/table/tbody/tr[1]/td/div/div[1]/div[2]</entry>
+<entry key="gmailSignin_xpath">//a[text()='Sign in']</entry>
+<entry key="gmailUserName_xpath">//input[@id='Email']</entry>
+<entry key="gmailNextbutton_xpath">//input[@id='next']</entry>
+<entry key="gmailPwd_xpath">//input[@id='Passwd']</entry>
+<entry key="gmailSignin2_xpath">//input[@id='signIn']</entry>
+<entry key="gmailSignout_xpath">//*[@id="gb"]/div[1]/div[1]/div[2]/div[4]/div[1]/a/span</entry>
+<entry key="gmailSignout2_id">//*[@id="gb_71"]</entry>
+<entry key="gmailbrowsephotoframe_id">I2_1443679766710</entry>
+<entry key="gmailbrowsephotoframe_xpath">//iframe[contains(@src,'profilePhoto=true')]</entry>
+<entry key="gmailchangephoto_xpath">//*[@id="gb"]/div[1]/div[1]/div[2]/div[4]/div[2]/div[1]/a/span</entry>
+<entry key="gmailselectphoto_xpath">//*[@id=":g.select-files-button"]/div</entry>
+<entry key="radioBtn_xpath">//*[@id="RoundTrip"]</entry>
+<entry key="sourceCity_xpath">//*[@id="root"]/div[3]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/div/div/div[1]/div[5]/table/tbody/tr[1]/td[1]/div/div[1]</entry>
+<entry key="destCity_xpath">//*[@id="root"]/div[3]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/div/div/div[1]/div[5]/table/tbody/tr[1]/td[2]/div/div[1]/div</entry>
+<entry key="abtggl_link">#footer-list > li:nth-child(1) > a</entry>
+<entry key="filename">Open||[CLASS:Edit; INSTANCE:1]</entry>
+<entry key="openfiles">Open||1</entry>
+<entry key="Calc1">Calculator||131</entry>
+<entry key="Calcplus">Calculator||93</entry>
+<entry key="Calc2">Calculator||132</entry>
+<entry key="Calcequ">Calculator||121</entry>
+</properties>
+

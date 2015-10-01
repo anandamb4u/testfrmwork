@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="testsiteBaseURL">https://www.google.co.in/flights/</entry>
+<entry key="browserType">Chrome</entry>
+<entry key="implicitwait">20</entry>
+<entry key="screenshot_error">Y</entry>
+<entry key="screenshot_everystep">N</entry>
+<entry key="jacobDllVersionToUse">jacob-1.18-x64.dll</entry>
+</properties>
